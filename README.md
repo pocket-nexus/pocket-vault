@@ -1,7 +1,7 @@
 # Pocket Vault
 
 An Obsidian-style markdown vault on a Nintendo 3DS, built on
-[PocketJS](https://github.com/pocket-stack/pocketjs). The note is on the top
+[PocketJS](https://github.com/pocket-nexus/pocketjs). The note is on the top
 screen; every control is on the bottom one. The vault itself — a thousand
 notes of 100 KB and more — stays on a Mac, and the console never reads a
 file: a **companion** process on the Mac indexes the folder into SQLite, lays
